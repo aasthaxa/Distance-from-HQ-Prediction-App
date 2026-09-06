@@ -1,7 +1,7 @@
 
 import streamlit as st
 import pandas as pd
-import joblib
+import joblib as jb
 
 # Load the saved linear regression model
 loaded_lr_model = joblib.load('linear_regress_model.sav')
