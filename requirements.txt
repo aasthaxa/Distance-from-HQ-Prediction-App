@@ -1,5 +1,5 @@
-
-plotly
-joblib
 streamlit
+pandas
+joblib
 scikit-learn
+plotly
